@@ -10,14 +10,14 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
     {
-			module: 'swisstransport',
-			position: 'bottom_left',
-			header: 'Zugverbindungen',
-			config: {
-          id: '008503203', // Trainstation ID
-          maximumEntries: '10', // Max departures displayed
-			}
-		},
+		module: 'swisstransport',
+		position: 'bottom_left',
+		header: 'Zugverbindungen',
+		config: {
+          		id: '008503203', // Trainstation ID
+			maximumEntries: '10', // Max departures displayed
+		}
+	},
 ]
 ````
 To find your Trainstation ID use http://transport.opendata.ch/examples/stationboard.html
