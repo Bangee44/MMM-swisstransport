@@ -1,7 +1,3 @@
-/* https://transport.opendata.ch/v1/stationboard?id=008503203&limit=5 
- * 
- */
-
 /* Timetable for Trains Module */
 
 /* Magic Mirror
