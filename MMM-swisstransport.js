@@ -8,7 +8,7 @@
  * MIT Licensed.
  */
 
-Module.register("swisstransport",{
+Module.register("MMM-swisstransport",{
 
 	// Define module defaults
 	defaults: {
