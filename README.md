@@ -15,7 +15,7 @@ modules: [
 		header: 'Zugverbindungen',
 		config: {
 			id: '008503203', // Trainstation ID
-			maximumEntries: '10', // Max departures displayed
+			maximumEntries: '10' // Max departures displayed
 		}
 	},
 ]
