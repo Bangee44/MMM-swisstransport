@@ -20,7 +20,8 @@ modules: [
 	},
 ]
 ````
-To find your Trainstation ID use http://transport.opendata.ch/examples/stationboard.html
+To find your Trainstation ID use http://transport.opendata.ch/v1/locations?query=Basel%20SBB
+Replace query=...... with your stationname.
 
 
 ## Base API
